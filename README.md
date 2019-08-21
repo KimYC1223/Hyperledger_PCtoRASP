@@ -20,11 +20,8 @@
 
 2019 Koeran Areospace University Prof.Junghee Han Team / Graduation work
 
-| Jung<br>JiWon | Kim<br>YoungChan| Lee<br>SeungJun | Ahn<br>Jonghwa
+| Name | Student ID | E-Mail | Github Account |
 |:---:|:---:|:---:|:----:|
-| 2013122260 |2013122041 | 2031122201 | 2013122 |
-| traveloving2030@gmail.com |kau_esc@naver.com | scheinbild@naver.com | |
-
 | Kim YoungChan | 2013122041 | kau_esc@naver.com | [KimYC](https://github.com/KimYC1223) |
 | Jung JiWon | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | Lee SeungJun | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
