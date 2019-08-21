@@ -14,11 +14,11 @@
 
 ---
 
-# Biuld a private blockchain network between PC and Raspberry PI</b><br>
+# Biuld a private blockchain network between PC and Raspberry PI
 
 ### Project introduction
 
-2019 Koeran Areospace University Prof.Junghee Han Team / Graduation work
+2019 Korea Aerospace University Prof.Junghee Han Team / Graduation piece
 
 | Name | Student ID | E-Mail | Github Account |
 |:---:|:---:|:---:|:----:|
