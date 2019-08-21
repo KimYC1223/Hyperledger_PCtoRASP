@@ -4,7 +4,9 @@
 
 ### 프로젝트 소개
 
-2019 한국 항공 대학교 한정희 교수님팀 종합 설계 프로젝트 : 임베디드 시스템 기반의 하이퍼레져 패브릭을 이용한 출입 관리 시스템. 기존의 서버 중심으로 운용되던 출입 관리 시스템을 프라이빗 블록체인 네트워크로 구현하여 보안성 측면에서 개선하도록 한다. 본 프로젝트에서 사용하는 프라이빗 블록체인 엔진인 하이퍼레져 패브릭은, 2018월 3월에 IBM이 1.1버전을 릴리즈한 뒤로 많은 사람들의 사랑을 받고 있는 블록체인 플랫폼이다. 하이퍼레져를 응용한다면 누구든 손쉽게 강력한 보안성을 가지는 네트워크를 구축할 수 있기 때문에, 이번 프로젝트에서도 출입 인증 단말 사이의 네트워크를 구축하기 위해 사용하기로 하였다.
+>2019 한국 항공 대학교 한정희 교수님팀 종합 설계 프로젝트 : 임베디드 시스템 기반의 하이퍼레져 패브릭을 이용한 출입 관리 시스템
+
+기존의 서버 중심으로 운용되던 출입 관리 시스템을 프라이빗 블록체인 네트워크로 구현하여 보안성 측면에서 개선하도록 한다. 본 프로젝트에서 사용하는 프라이빗 블록체인 엔진인 하이퍼레져 패브릭은, 2018월 3월에 IBM이 1.1버전을 릴리즈한 뒤로 많은 사람들의 사랑을 받고 있는 블록체인 플랫폼이다. 하이퍼레져를 응용한다면 누구든 손쉽게 강력한 보안성을 가지는 네트워크를 구축할 수 있기 때문에, 이번 프로젝트에서도 출입 인증 단말 사이의 네트워크를 구축하기 위해 사용하기로 하였다.
 
 하지만 64bit AMD 아키텍처를 대상으로 설계된 하이퍼
 
@@ -29,7 +31,9 @@
 
 ### Project introduction
 
-2019 Korea Aerospace University Prof.Junghee Han Team Graduation piece : Entrance Management System Using Hyperledger-Fabric Based on Embedded System. Implement server-centered entrance management system as a private blockchain network to improve security. Hyperledger- Fabric, the private blockchain engine used in this project, is a blockchain platform that has been loved by many people since IBM released version 1.1 in March 2018. Anyone can easily build a strong security network by applying Hyperledger, so we decided to use Hyperledger to build a network between access authentication terminals
+> 2019 Korea Aerospace University Prof.Junghee Han Team Graduation piece : Entrance Management System Using Hyperledger-Fabric Based on Embedded System
+
+Implement server-centered entrance management system as a private blockchain network to improve security. Hyperledger- Fabric, the private blockchain engine used in this project, is a blockchain platform that has been loved by many people since IBM released version 1.1 in March 2018. Anyone can easily build a strong security network by applying Hyperledger, so we decided to use Hyperledger to build a network between access authentication terminals
 
 ### CONTRIBUTOR
 
