@@ -1,5 +1,4 @@
-
-# PC와 RASP 사이의 프라이빗 블록체인 네트워크 구축
+![image](https://user-images.githubusercontent.com/40852277/63410270-e4a37200-c42d-11e9-934a-b7445aa4daa4.png)
 
 ### 프로젝트 소개
 
@@ -10,10 +9,16 @@
 | 김영찬 | 2013122041 | kau_esc@naver.com | [KimYC](https://github.com/KimYC1223) |
 | 정지원 | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | 이승준 | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
-| 안종화 | 2013122 | - | - |
+| 안종화 | 2013122148  | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
+
+
+
 
 ---
 
+![image](https://user-images.githubusercontent.com/40852277/63410197-b0c84c80-c42d-11e9-8aea-c5a1fd892256.png)
+
+# PC와 RASP 사이의 프라이빗 블록체인 네트워크 구축
 # Biuld a private blockchain network between PC and Raspberry PI
 
 ### Project introduction
@@ -25,4 +30,4 @@
 | Kim YoungChan | 2013122041 | kau_esc@naver.com | [KimYC](https://github.com/KimYC1223) |
 | Jung JiWon | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | Lee SeungJun | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
-| Ahn JongHwa | 2013122 | - | - |
+| Ahn JongHwa | 2013122148 | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
