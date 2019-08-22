@@ -6,7 +6,7 @@
 
 >2019 한국 항공 대학교 한정희 교수님팀 종합 설계 프로젝트 : 임베디드 환경 기반의 하이퍼레져 패브릭을 이용한 출입 관리 시스템
 
-본 프로젝트에서, 기존의 서버 중심으로 운용되던 출입 관리 시스템을 프라이빗 블록체인 네트워크로 구현하여 보안성 측면에서 개선하도록 한다. 이번에 사용할 프라이빗 블록체인 엔진인 하이퍼레져 패브릭은, 2018월 3월에 IBM이 1.1버전을 릴리즈한 뒤로 많은 사람들의 사랑을 받고 있는 블록체인 플랫폼이다. 하이퍼레져를 응용한다면 누구든 손쉽게 강력한 보안성을 가지는 네트워크를 구축할 수 있기 때문에, 이번 프로젝트에서도 출입 인증 단말 사이의 네트워크를 구축하기 위해 사용하기로 하였다.
+ 본 프로젝트는 기존의 서버 중심으로 운용되던 출입 관리 시스템을 프라이빗 블록체인 네트워크로 구현하여 보안성 측면에서 개선하는 방법을 제시한다. 이번에 사용할 프라이빗 블록체인 엔진인 하이퍼레져 패브릭은, 2018월 3월에 IBM이 1.1버전을 릴리즈한 뒤로 많은 사람들의 사랑을 받고 있는 블록체인 플랫폼이다. 하이퍼레져를 응용한다면 누구든 손쉽게 강력한 보안성을 가지는 네트워크를 구축할 수 있기 때문에, 이번 프로젝트에서도 출입 인증 단말 사이의 네트워크를 구축하기 위해 사용하기로 하였다.
 
 우리가 구현하고자 하는 네트워크는 위와 같다.
 
@@ -33,7 +33,7 @@
 
 > 2019 Korea Aerospace University Prof.Junghee Han Team Graduation piece : Entrance Management System Using Hyperledger-Fabric Based on Embedded Environment
 
-In this project, Implement server-centered entrance management system as a private blockchain network to improve security. Hyperledger- Fabric, the private blockchain engine used in this readme, is a blockchain platform that has been loved by many people since IBM released version 1.1 in March 2018. Anyone can easily build a strong security network by applying Hyperledger, so we decided to use Hyperledger to build a network between entrance authentication terminals
+ This project proposes a method to improve security in terms of implementing the server-centered entrance management system as a private blockchain network. Hyperledger- Fabric, the private blockchain engine used in this readme, is a blockchain platform that has been loved by many people since IBM released version 1.1 in March 2018. Anyone can easily build a strong security network by applying Hyperledger, so we decided to use Hyperledger to build a network between entrance authentication terminals
 
 ![image](https://user-images.githubusercontent.com/40852277/63421911-5f778780-c444-11e9-9525-5f90640647e3.png)
 
