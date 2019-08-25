@@ -51,7 +51,7 @@ The following figure shows traditional server-centered system. When user authent
 
 ![image](https://user-images.githubusercontent.com/40852277/63421911-5f778780-c444-11e9-9525-5f90640647e3.png)
 
-This project shows that applying the blockchain to the network can bring various security benefits such as immutability, Byzantine fault tolerance(BFT), and eliminate single point of failure. so modify figure 1 network as figure 2
+This project shows that applying the blockchain to the network can bring various security benefits such as immutability, Byzantine fault tolerance(BFT), and eliminate single point of failure. so modify figure 1 network as figure 2.
 
 <br><br>
 
