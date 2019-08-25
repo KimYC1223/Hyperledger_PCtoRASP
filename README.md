@@ -8,7 +8,13 @@
 
  본 프로젝트는 기존의 서버 중심으로 운용되던 출입 관리 시스템을 프라이빗 블록체인 네트워크로 구현하여 보안성 측면에서 개선하는 방법을 제시한다. 이번에 사용할 프라이빗 블록체인 엔진인 하이퍼레져 패브릭은, 2018월 3월에 IBM이 1.1버전을 릴리즈한 뒤로 많은 사람들의 사랑을 받고 있는 블록체인 플랫폼이다. 하이퍼레져를 응용한다면 누구든 손쉽게 강력한 보안성을 가지는 네트워크를 구축할 수 있기 때문에, 이번 프로젝트에서도 출입 인증 단말 사이의 네트워크를 구축하기 위해 사용하기로 하였다.
 
-우리가 구현하고자 하는 네트워크는 위와 같다.
+<br><br>
+
+아래 그림은 기존의 서버 중심의 시스템을 보여줍니다.
+
+<br>
+
+사용자들이 자신의 신원을 인증하면, 단말은 서버에 로그를 전송하고 서버는 이를 저장합니다.
 
 ![image](https://user-images.githubusercontent.com/40852277/63421925-630b0e80-c444-11e9-9abf-914b08d54112.png)
 
@@ -35,7 +41,17 @@
 
  This project proposes a method to improve security in terms of implementing the server-centered entrance management system as a private blockchain network. Hyperledger- Fabric, the private blockchain engine used in this readme, is a blockchain platform that has been loved by many people since IBM released version 1.1 in March 2018. Anyone can easily build a strong security network by applying Hyperledger, so we decided to use Hyperledger to build a network between entrance authentication terminals
 
+<br><br>
+
+The following diagram shows traditional server-centered system.
+
+<br>
+
 ![image](https://user-images.githubusercontent.com/40852277/63421911-5f778780-c444-11e9-9525-5f90640647e3.png)
+
+<br>
+
+When user authenticate their identity,  the teminal sends a log to the server, and the server stores them.
 
 ### CONTRIBUTOR
 
