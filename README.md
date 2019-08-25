@@ -10,13 +10,11 @@
 
 <br><br>
 
-아래 그림은 기존의 서버 중심의 시스템을 보여줍니다.
-
-<br>
-
-사용자들이 자신의 신원을 인증하면, 단말은 서버에 로그를 전송하고 서버는 이를 저장합니다.
+아래 그림은 기존의 서버 중심의 시스템을 보여준다. 사용자들이 자신의 신원을 인증하면, 단말은 서버에 로그를 전송하고 서버는 이를 저장합니다.
 
 ![image](https://user-images.githubusercontent.com/40852277/63421925-630b0e80-c444-11e9-9abf-914b08d54112.png)
+
+<br>
 
 ### 팀원 소개
 | 이름 | 학번 | 이메일 | 깃허브 |
@@ -43,15 +41,13 @@
 
 <br><br>
 
-The following diagram shows traditional server-centered system.
+The following diagram shows traditional server-centered system. When user authenticate their identity,  the teminal sends a log to the server, and the server stores them.
 
 <br>
 
 ![image](https://user-images.githubusercontent.com/40852277/63421911-5f778780-c444-11e9-9525-5f90640647e3.png)
 
 <br>
-
-When user authenticate their identity,  the teminal sends a log to the server, and the server stores them.
 
 ### CONTRIBUTOR
 
