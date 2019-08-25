@@ -16,6 +16,10 @@
 
 본 프로젝트에서는 해당 네트워크에 블록체인을 적용 함으로써 변경 불가능성, 비잔틴 장애 허용성, 단일 장애점 제거 등 다양한 보안 이득을 가져갈 수 있음을 보인다. 따라서 다음과 같이 그림 1의 네트워크를 수정한다.
 
+<br><br>
+
+![image](https://user-images.githubusercontent.com/40852277/63649950-5148a480-c77f-11e9-8de2-5a144ec8597d.png)
+
 
 
 ### 팀원 소개
@@ -48,6 +52,11 @@ The following figure shows traditional server-centered system. When user authent
 ![image](https://user-images.githubusercontent.com/40852277/63421911-5f778780-c444-11e9-9525-5f90640647e3.png)
 
 This project shows that applying the blockchain to the network can bring various security benefits such as immutability, Byzantine fault tolerance(BFT), and eliminate single point of failure. so modify figure 1 network as figure 2
+
+<br><br>
+
+![image](https://user-images.githubusercontent.com/40852277/63649971-76d5ae00-c77f-11e9-99ab-1ff3fcda2c5c.png)
+
 
 ### CONTRIBUTOR
 
