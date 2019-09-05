@@ -20,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/40852277/63649950-5148a480-c77f-11e9-8de2-5a144ec8597d.png)
 
-
+그림 2에서는 단말과 관리자 컴퓨터 모두 피어로써 네트워크에 참여한다. 해당 블록체인 네트워크는 사용자의 출입 로그를 트랜잭션으로 오더러에게 전달한다. 오더러는 받은 트랜잭션을 다른 모든 피어에게 전달하여 분산 원장의 통일성을 유지한다. 이 경우, 블록을 만들어야 하는 오더러의 경우, 높은 컴퓨팅 파워가 요구되기 때문에, 이는 임베디드 시스템인 단말보다는 일반적인 PC정도의 환경에서 구동해야 했다.
 
 ### 팀원 소개
 | 이름 | 학번 | 이메일 | 깃허브 |
@@ -57,6 +57,7 @@ This project shows that applying the blockchain to the network can bring various
 
 ![image](https://user-images.githubusercontent.com/40852277/63649971-76d5ae00-c77f-11e9-99ab-1ff3fcda2c5c.png)
 
+In Figure 2, both the terminal and administrator computer join the network as peers. The blockchain network sends the user's access log to the orderer as a transaction. The orderer delivers the received transactions to all other peers to maintain the uniformity of the distributed ledger. In this case, Orderer which is make block, is required high computing power. So we run orderer in PC environment rather than terminal peer(Embedded System).
 
 ### CONTRIBUTOR
 
