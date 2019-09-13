@@ -31,7 +31,7 @@
 ### 팀원 소개
 | 이름 | 학번 | 이메일 | 깃허브 |
 |:---:|:---:|:---:|:----:|
-| 김영찬 | 2013122041 | kau_esc@naver.com | [KimYC](https://github.com/KimYC1223) |
+| 김영찬 | 2013122041 | kau_esc@naver.com | [KimYC1223](https://github.com/KimYC1223) |
 | 정지원 | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | 이승준 | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
 | 안종화 | 2013122148  | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
@@ -73,7 +73,7 @@ We hope this ReadMe and project helped somebody. :-)
 
 | Name | Student ID | E-Mail | Github Account |
 |:---:|:---:|:---:|:----:|
-| Kim YoungChan | 2013122041 | kau_esc@naver.com | [KimYC](https://github.com/KimYC1223) |
+| Kim YoungChan | 2013122041 | kau_esc@naver.com | [KimYC1223](https://github.com/KimYC1223) |
 | Jung JiWon | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | Lee SeungJun | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
 | Ahn JongHwa | 2013122148 | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
