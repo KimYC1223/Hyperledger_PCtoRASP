@@ -65,7 +65,7 @@ This project shows that applying the blockchain to the network can bring various
 
 In Figure 2, both the terminal and administrator computer join the network as peers. The blockchain network sends the user's access log to the orderer as a transaction. The orderer delivers the received transactions to all other peers to maintain the uniformity of the distributed ledger. In this case, Orderer which is make block, is required high computing power. So we run orderer in PC environment rather than terminal peer(Embedded System).
 
-Therefore, it can be seen that this project is indispensable work for the private blockchain (Hyperledger Fabric) built on between PC and Embedded environment. But usually, the data we found implemented a private blockchain between PC to PC, or embedded to embedded. so our team needed to do a lot of research and googling to solve this issue. Eventually we succeeded in the implementation, and we decided to upload what we didn't know about and we did know about to GitHub.
+Therefore, it can be seen that this project is indispensable work for the private blockchain (Hyperledger Fabric) built on between PC and Embedded environment. But usually, the data we found implemented a private blockchain between PC to PC, or embedded to embedded. so our team needed to do a lot of research and googling to solve this issue. Eventually we succeeded in the implementation, and we decided to upload what we didn't know about and we did know about to GitHub. This ReadMe will walk you through the process of building a network.
 
 We hope this ReadMe and project helped somebody. :-)
 
