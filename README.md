@@ -36,6 +36,11 @@
 | 이승준 | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
 | 안종화 | 2013122148  | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
 
+### 환경 설정
+
+
+
+
 <br><br><br><br><br><br>
 
 ---
@@ -77,3 +82,5 @@ We hope this ReadMe and project helped somebody. :-)
 | Jung JiWon | 2013122260 | traveloving2030@gmail.com | [traveloving2030](https://github.com/traveloving2030) |
 | Lee SeungJun | 2031122201 | scheinbild@naver.com | [scheinbild](https://github.com/scheinbild) |
 | Ahn JongHwa | 2013122148 | akn0901@naver.com | [ajw0305](https://github.com/ajw0305) |
+
+### Environment Settings
